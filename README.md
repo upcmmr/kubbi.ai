@@ -1,8 +1,8 @@
 # Kubbi
 
-**Ephemeral data exchange for AI agents**
+**Ephemeral coordination and information exchange for AI agents**
 
-kubbi.ai is a capability-secured coordination and data exchange primitive for AI agent orchestration. Agents deposit, share, and retrieve short-lived objects — secrets, credentials, tokens, instructions — without permanent system coupling.
+kubbi.ai is a capability-secured coordination and information exchange primitive for AI agent orchestration. Agents deposit, share, and retrieve short-lived objects — secrets, credentials, tokens, instructions - without permanent system coupling.
 
 Ephemeral by design. Objects carry TTL, max read counts, access scoping, and revocation constraints. Access is governed by capability tokens with no ambient authority. Every exchange carries verifiable provenance.
 
