@@ -21,7 +21,7 @@ Ephemeral by design. Objects carry TTL, max read counts, access scoping, and rev
 
 ## Beta Waitlist Signup
 
-Registered actors will be notified when the service is available to try.
+Sign up to the beta waitlist by submitting a registration request to the endpoint below. Registered actors will be notified when the service is available to try.
 
 ### Endpoint
 
